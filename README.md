@@ -29,3 +29,12 @@ This copies the app into `/output` (or `$MAKEFUN_OUTPUT_DIR`) and writes `dossie
 - `app/data/trophies.json` — the 55 trophies with guides and sources.
 - `main.ts` — the entrypoint; copies the app and writes the dossier.
 - `screenshots/` — four real browser renders of the app.
+
+## Screenshots
+
+Four real browser renders of the app, all 1280×800:
+
+- `1-checklist.jpg` — the trophy checklist with the progress bar.
+- `2-guide-sources.jpg` — a trophy's guide with its named sources.
+- `3-roadmap.jpg` — the 5-stage roadmap to platinum.
+- `4-spoiler.jpg` — spoiler mode hiding unrevealed story trophies.
